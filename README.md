@@ -1,8 +1,11 @@
-- 👋 Hi, I’m Vasileios Papadopoulos @vassilispapadop
+### Hello There 👋
+I am a Machine Learning Engineer at [Sensity](https://sensity.ay).
+<!--- - 👋 Hi, I’m Vasileios Papadopoulos @vassilispapadop
 - 👀 I’m interested in Artifical Intelligence
 - 🌱 I’m currently learning Machine Learning, Deep Learning
 - 💞️ I’m looking to collaborate on any machine learning project
 - 📫 How to reach me vpapadopoulos.dev@gmail.com
+--->
 
 <!---
 vassilispapadop/vassilispapadop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
